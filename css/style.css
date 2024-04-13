@@ -7,17 +7,17 @@
 
   /* =======================   Colors   ======================== */
   --verde-ocuro: rgb(63, 75, 59);
-  --verde-claro: rgb(68, 99, 63);
-  --gris: rgb(153, 168, 171);
+  --verde-claro: rgb(100, 124, 96);
+  --gris: rgb(153, 171, 162);
   --blanco: rgb(240, 240, 240);
   --negro: rgb(25, 25, 25);
 
   --hue-color: ;
 
-  --first-color: rgb(68, 99, 63);
+  --first-color: rgb(92, 118, 88);
   --first-color-second: rgb(63, 75, 59);
-  --first-color-alt: rgb(76, 111, 70);
-  --first-color-lighter: rgb(96, 127, 91);
+  --first-color-alt: rgb(73, 107, 67);
+  --first-color-lighter: rgb(133, 163, 129);
   --title-color: rgb(25, 25, 25);
   --text-color: rgb(25, 25, 25);
   --text-color-light: rgb(48, 48, 48);
@@ -373,6 +373,8 @@ body.dark-theme{
 
 .button:hover {
   background-color: var(--first-color-alt);
+  padding-right: 1.3rem;
+  padding-left: 1.3rem;
 }
 
 .button__icon {
@@ -472,11 +474,13 @@ body.dark-theme{
   display: flex;
   justify-content: space-between;
   margin-bottom: var(--mb-0-5);
+  align-items: center;
 }
 
 .skills__name {
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
+  margin-bottom: 6px;
 }
 
 .skills__bar,
@@ -498,13 +502,13 @@ body.dark-theme{
   width: 90%;
 }
 .skills__css {
-  width: 70%;
+  width: 80%;
 }
 .skills__js {
-  width: 55%;
+  width: 70%;
 }
 .skills__react {
-  width: 35%;
+  width: 55%;
 }
 .skills__photoshop {
   width: 98%;
@@ -532,6 +536,18 @@ body.dark-theme{
 }
 .skill__open .skills__arrow {
   transform: rotate(-180deg);
+}
+
+.skills__img{
+  display: flex;
+  align-items: center;
+}
+
+.app_icons {
+  margin-top: -10px;
+  margin-right: 1rem;
+  width: 25px;
+  height: 25px;
 }
 
 /* =======================    EXPERIENCIA Y EDUCACIÓN    ======================== */
