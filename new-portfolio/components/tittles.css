@@ -1,0 +1,17 @@
+.cutted-tittle {
+  font-size: 3rem;
+  padding: 16px 0;
+  background-color: #c4bda4;
+  color: transparent;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+
+  text-shadow: 2px 2px 1px rgba(255, 255, 255, 0.3);
+  /* -webkit-background-clip: text; */
+      -moz-background-clip: text; 
+           background-clip: text; 
+
+  /* text-shadow: inset 0px 2px 16px 5px rgba(0,0,0,0.57), inset 0px 2px 16px 5px rgba(0,0,0,0.57), inset 0px 2px 16px 5px rgba(0,0,0,0.57); */
+}
+
+/*   */
