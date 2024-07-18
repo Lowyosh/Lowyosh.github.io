@@ -62,6 +62,7 @@ const config = {
         purple: "#CBACF9",
         sub: "#BDFF00",
         sub2: "#8000FF",
+        spotify: "#1DB954",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
