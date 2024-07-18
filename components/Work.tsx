@@ -14,7 +14,7 @@ function Work(){
           <p className=''>Softtek, Spain <br /> 2023 - Current</p>
         </div>
         <div className=' flex flex-col basis-4/6 gap-6'>
-          <p className=''>Development of <span className='bg-sub dark:bg-sub2'>IoT applications,</span>based on real-time data tracking. Design of components and views in Figma.<span className='bg-sub dark:bg-sub2 px-2'>React, TypeScript</span>and Lit. Agile methodology on Jira</p>
+          <p className=''>Development of <span className='bg-sub dark:bg-sub2'>IoT applications,</span>based on real-time data tracking. Design of components and views in Figma.<span className='bg-sub dark:bg-sub2 px-2'>React, TypeScript</span>and Lit. Scrum methodology on Jira</p>
           <div className=' flex justify-center items-center gap-2 mb-12'>
             <BadgeLogo source="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript Logo"></BadgeLogo>
             <BadgeLogo source="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react Logo"></BadgeLogo>

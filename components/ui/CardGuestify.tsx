@@ -3,7 +3,7 @@ import { cn } from "../../utils/cn";
 
 export function CardGuestify() {
   return (
-    <div className="w-full cursor-pointer">
+    <div className="w-full cursor-pointer ">
       <div
         className={cn(
           "group w-full overflow-hidden relative card h-96 rounded-md shadow-xl mx-auto flex flex-col justify-end p-4 border border-transparent dark:border-neutral-800",
