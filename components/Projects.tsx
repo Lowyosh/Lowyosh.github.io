@@ -1,5 +1,5 @@
 import React from 'react'
-import { CardBento } from './ui/CardBento'
+import { CardBentofinal } from './ui/CardBentofinal'
 import { CardVue } from './ui/CardVue'
 import { CardGuestify } from './ui/CardGuestify'
 
@@ -12,7 +12,7 @@ export const Projects = () => {
       <div className='flex flex-col gap-4 max-w-680px max-h-[760px]'>
       <div className='flex gap-4 md:flex-row xs:flex-col'>
         <div className='basis-4/6 '>
-         <CardBento/> 
+         <CardBentofinal/> 
         </div>
         <div className='basis-2/6'>
         <CardVue/>

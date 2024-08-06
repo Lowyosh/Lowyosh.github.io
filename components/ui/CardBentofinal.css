@@ -1,0 +1,9 @@
+
+.bento {
+  background-image: url(../../src/img/bento-preview.png)
+}
+
+.bento:hover {
+  /* background-image: url(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlodTF3MjJ3NnJiY3Rlc2J0ZmE0c28yeWoxc3gxY2VtZzA5ejF1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/syEfLvksYQnmM/giphy.gif); */
+  background-image: url(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTloaWM5Mzh2aWl0c2dwZGFraTF5dnVjNmsxb3Axczh0Y2lxeTBsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif);
+}
